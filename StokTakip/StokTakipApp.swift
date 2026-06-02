@@ -2,8 +2,7 @@
 //  StokTakipApp.swift
 //  StokTakip
 //
-//  Created by Vahit Emre Tellier on 2.06.2026.
-//
+
 
 import SwiftUI
 
@@ -11,7 +10,7 @@ import SwiftUI
 struct StokTakipApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProductListView()
         }
     }
 }
